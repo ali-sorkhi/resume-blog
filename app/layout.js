@@ -14,7 +14,7 @@ function AppContent({ children }) {
     <html lang={language} dir={language === "fa" ? "rtl" : "ltr"}>
       <body className="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-white">
         <Navbar />
-        <main className="max-w-3xl mx-auto p-6">{children}</main>
+        <main className="">{children}</main>
       </body>
     </html>
   );
