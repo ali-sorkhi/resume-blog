@@ -1,11 +1,37 @@
 {
-  "welcome": "Welcome to My Blog",
-  "description": "Showcasing my projects, thoughts, and experiences.",
+  "welcome": "Welcome to company Blog",
+  "description": "Showcasing our projects, services, and experiences.",
   "viewBlog": "View Blog",
-  "projects": "Projects",
   "toggleTheme": "Toggle Theme",
   "toggleLanguage": "Switch to Farsi",
-  "myName": "Ali Sorkhi",
+  "companyName": "company Name",
+
+  "projects": "Projects",
+  "projectsDescription": "Explore my projects.",
+  "project1Title": "Project 1",
+  "project1Description": "Description of Project 1.",
+
   "services": "Services",
-  "contact": "Contact"
+  "servicesDescription": "Discover the services I offer, including web development, consulting, and more.",
+  "service1Title": "Web Development",
+  "service1Description": "Building responsive and modern websites.",
+
+  "contact": "Contact",
+  "contactDescription": "Get in touch for services and consultations.",
+  "contactForm": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "success": "Your message has been sent successfully!",
+    "error": "Error sending message. Please try again."
+  },
+  "contactInfo": {
+    "phone": "Phone",
+    "phoneNumber": "+1 234 567 8900",
+    "address": "Address",
+    "addressDetails": "123 Main St, City, Country",
+    "email": "Email",
+    "emailAddress": "a@gmail.com"
+  }
 }

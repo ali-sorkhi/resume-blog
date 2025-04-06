@@ -30,7 +30,7 @@ export default function Navbar() {
     <nav className="p-4 flex justify-between items-center bg-gray-200 dark:bg-gray-800 relative z-50">
       {/* Logo */}
       <Link href="/" className="text-xl font-bold">
-        {t.myName}
+        {t.companyName}
       </Link>
 
       {/* Mobile Menu Button */}

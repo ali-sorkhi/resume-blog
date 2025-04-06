@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import { useTranslations } from "../hooks/useTranslations";
+import { useTranslations } from "@/hooks/useTranslations";
 import img from "@/public/images/banner1.jpg";
 
 export default function Home() {

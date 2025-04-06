@@ -17,6 +17,12 @@
   --foreground: #171717;
 }
 
+:lang(en) {
+  direction: ltr;
+  unicode-bidi: plaintext;
+  font-family: Arial, Helvetica, sans-serif; /* Override Persian font */
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;

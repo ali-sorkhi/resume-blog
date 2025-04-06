@@ -1,11 +1,41 @@
 {
-  "welcome": "به وبلاگ من خوش آمدید",
-  "description": "نمایش پروژه‌ها، افکار و تجربیات من.",
+  "welcome": "به وبلاگ شرکت خوش آمدید",
+  "description": "نمایش پروژه‌ها، خدمات و تجربیات ما.",
   "viewBlog": "مشاهده وبلاگ",
-  "projects": "پروژه ها",
   "toggleTheme": "تغییر حالت تاریک",
   "toggleLanguage": "تغییر به انگلیسی",
-  "myName": "علی سرخی",
+  "companyName": "نام شرکت",
+
+  "projects": "پروژه ها",
+  "projectsDescription": "پروژه‌های انجام شده.",
+  "project1Title": "پروژه 1",
+  "project1Description": "توضیحات پروژه 1.",
+  "project2Title": "پروژه 2",
+  "project2Description": "توضیحات پروژه 2.",
+
   "services": "خدمات",
-  "contact": "تماس"
+  "servicesDescription": "خدماتی که ما ارائه می‌دهیم را ببینید، از جمله توسعه وب، مشاوره و غیره.",
+  "service1Title": "توسعه وب",
+  "service1Description": "ساخت وب‌سایت‌های واکنش‌گرا و مدرن.",
+  "service2Title": "شبکه",
+  "service2Description": "مدیریت و پیکربندی شبکه‌های کامپیوتری.",
+
+  "contact": "تماس",
+  "contactDescription": "جهت بهره مندی از خدمات و مشاوره با ما تماس بگیرید.",
+  "contactForm": {
+    "name": "نام",
+    "email": "ایمیل",
+    "message": "پیام",
+    "send": "ارسال",
+    "success": "پیام شما با موفقیت ارسال شد!",
+    "error": "خطا در ارسال پیام. لطفا دوباره تلاش کنید."
+  },
+  "contactInfo": {
+    "phone": "تلفن",
+    "phoneNumber": "+98 917 111 1111",
+    "address": "آدرس",
+    "addressDetails": "'گراش، بلوار سرداران، پلاک 123",
+    "email": "ایمیل",
+    "emailAddress": "a@gmail.com"
+  }
 }
